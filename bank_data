@@ -1,0 +1,18 @@
+# Bank Data Analysis Project
+
+## Description
+This project focuses on analyzing bank-related data to understand customer behavior and banking trends. 
+The analysis includes data cleaning, processing, and visualization to extract useful insights from the dataset.
+
+The project helps in identifying patterns such as customer balance distribution, loan status, and other financial attributes. 
+It is developed for academic purposes to demonstrate data analysis skills using Python.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Purpose
+This project is created as a mini project for learning data analysis and understanding real-world banking data.
