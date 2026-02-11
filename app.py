@@ -19,8 +19,7 @@ st.markdown("Interactive analysis of customer subscription behavior")
 # -----------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/Bank.csv")
-
+    return pd.read_csv("bank_data/Bank.csv")
 try:
     df = load_data()
 except:
