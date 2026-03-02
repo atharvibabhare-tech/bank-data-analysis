@@ -72,3 +72,5 @@ bank-data-analysis/
 └── README.md
     → Project documentation
 
+## 🌐 Live Demo
+[Click Here to View Live App](https://bank-data-analysis-b9vhficmz9w4whye5rqpfy.streamlit.app/)
